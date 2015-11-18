@@ -1,0 +1,10 @@
+cs	cs_bi	lm/bigram-100-train-cs.lm
+de	de_bi	lm/bigram-100-train-de.lm
+en	en_bi	lm/bigram-100-train-en.lm
+es	es_bi	lm/bigram-100-train-es.lm
+et	et_bi	lm/bigram-100-train-et.lm
+it	it_bi	lm/bigram-100-train-it.lm
+lv	lv_bi	lm/bigram-100-train-lv.lm
+nl	nl_bi	lm/bigram-100-train-nl.lm
+pt	pt_bi	lm/bigram-100-train-pt.lm
+sk	sk_bi	lm/bigram-100-train-sk.lm
