@@ -54,6 +54,7 @@ public class MyLanguageRecognizer1 extends LanguageRecognizer {
 				bestLang = l;
 			}
 		}
+		System.out.println(approx + " " + bestLang);
 		return bestLang;
 	}
 	

@@ -1,12 +1,5 @@
 package langReco.reco;
-
-import static org.junit.Assert.*;
-
-import java.util.ArrayList;
-import java.util.List;
-
 import langReco.eval.Performance;
-
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
@@ -16,8 +9,8 @@ public class MyLanguageRecognizer1Test {
 
 	@Test
 	public void testMyLanguageReconizer1() {
-		String goldSentPath = "data/gold/gold-sent.txt";
-		String goldLangPath = "data/gold/gold-lang.txt";
+		String goldSentPath = "data/gold/test.txt";
+		String goldLangPath = "data/gold/test-re.txt";
 
 		
 		MyLanguageRecognizer1 myLanguageReco = new MyLanguageRecognizer1();
